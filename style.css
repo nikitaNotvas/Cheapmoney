@@ -9,3 +9,6 @@ input[type=reset]{background-color: rgb(255, 0, 0);}
 .reset{
     background-color: red;
 }
+.BIG{
+    font-size: 36px;
+}
